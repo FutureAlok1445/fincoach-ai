@@ -154,3 +154,37 @@ Personalization	Generic Advice	User-Specific Personality Analysis
 Actionability	Text only	Structured Alerts & Burn Forecasts
 FinCoach AI is not just a conversation—it is a Decision Support System.
 
+
+
+## 🤝 Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+
+### 🚀 Getting Started
+
+To contribute to this project, please follow these steps:
+
+1. **Fork the Project** Click the "Fork" button at the top right of this page to create a copy of the repository in your own account.
+
+2. **Clone your Fork** Clone the repository to your local machine:
+   ```bash
+   git clone [https://github.com/FutureAlok1445/fincoach-ai.git](https://github.com/FutureAlok1445/fincoach-ai.git)
+
+
+   Create a Branch Create a feature branch for your changes. Keep the name descriptive
+   git checkout -b feature/AmazingFeature
+
+   Commit your Changes Make your changes locally and commit them with a clear, concise message:
+   git commit -m 'Add some AmazingFeature'
+
+   Push to the Branch Push your new branch up to your GitHub fork:
+   git push origin feature/AmazingFeature
+
+   Open a Pull Request Go to the original repository on GitHub. You should see a prompt to open a Pull Request. Fill out the PR template/description clearly explaining your changes, and submit!
+   
+
+
+
+
